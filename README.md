@@ -89,7 +89,7 @@ O projeto demonstra como técnicas de ciência de dados podem **complementar a a
 
 ---
 📢 Conecte-se e acompanhe mais projetos
-Se você se interessa por ciência de dados aplicada, astrofísica e análises exploratórias baseadas em dados reais, fique à vontade para se conectar comigo no [LinkedIn](https://www.linkedin.com/feed/), acompanhar meus artigos no Medium https://medium.com/@ednei_vicente ou entrar em contato por e-mail ednei.adgpo@gmail.com para trocas técnicas, colaborações ou feedbacks sobre o projeto.
+Se você se interessa por ciência de dados aplicada, astrofísica e análises exploratórias baseadas em dados reais, fique à vontade para se conectar comigo no [LinkedIn]([https://www.linkedin.com/feed/)](https://www.linkedin.com/in/ednei-cunha-vicente-551b64187/), acompanhar meus artigos no Medium https://medium.com/@ednei_vicente ou entrar em contato por e-mail ednei.adgpo@gmail.com para trocas técnicas, colaborações ou feedbacks sobre o projeto.
 
 ## 📌 Observação Final
 
